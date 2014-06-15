@@ -87,27 +87,29 @@ No. of observations =  10299
 
 18. fBodyGyro-std()-X  (numeric)
 
-19 fBodyGyro-std()-Y  (numeric)
+19. fBodyGyro-std()-Y  (numeric)
 
-20 fBodyGyro-std()-Z  (numeric)
+20. fBodyGyro-std()-Z  (numeric)
 
-21 fBodyAccMag-mean  (numeric)
+21. fBodyAccMag-mean  (numeric)
 
-22 fBodyAccMag-std()  (numeric)
+22. fBodyAccMag-std()  (numeric)
 
-23 fBodyBodyAccJerkMag-mean()  (numeric)
+23. fBodyBodyAccJerkMag-mean()  (numeric)
 
-24 fBodyBodyAccJerkMag-std()  (numeric)
+24. fBodyBodyAccJerkMag-std()  (numeric)
 
-25 fBodyBodyGyroMag-mean()  (numeric)
+25. fBodyBodyGyroMag-mean()  (numeric)
 
-26 fBodyBodyGyroMag-std (numeric)
+26. fBodyBodyGyroMag-std (numeric)
 
-27 fBodyBodyGyroJerkMag-mean()  (numeric)
+27. fBodyBodyGyroJerkMag-mean()  (numeric)
 
-28 fBodyBodyGyroJerkMag-std()  (numeric)
+28. fBodyBodyGyroJerkMag-std()  (numeric)
 
 
+## 2º Processed data
 
+This is a extract of principal data. Is the mean and std for each combination of subject and activity
 
 
