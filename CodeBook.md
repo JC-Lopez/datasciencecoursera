@@ -42,8 +42,10 @@ activity_labels.txt is the code for each activity:
 ## Processed data
 
 The preparation of data have two main steps:
-Merge all data
-Select relevant data
+
+* Merge all data
+* Select relevant data
+
 
 
 
