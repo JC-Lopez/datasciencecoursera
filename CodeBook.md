@@ -50,35 +50,35 @@ Once preparation is finished, the new data set have this structure:
 
 No. of observations =  10299 
 
-   Variable ..................... Class Description
+   Variable (Class Description)
    
-1  subject .......................factor                     
-2  practice ......................factor                     
-3  fBodyAcc-mean()-X .............numeric                    
-4  fBodyAcc-mean()-Y .............numeric                    
-5  fBodyAcc-mean()-Z ............ numeric                    
-6  fBodyAcc-std()-X ..............numeric                   
-7  fBodyAcc-std()-Y ..............numeric                    
-8  fBodyAcc-std()-Z ..............numeric                    
-9  fBodyAccJerk-mean()-X .........numeric                    
-10 fBodyAccJerk-mean()-Y .........numeric                    
-11 fBodyAccJerk-mean()-Z .........numeric                    
-12 fBodyAccJerk-std()-X ..........numeric                    
-13 fBodyAccJerk-std()-Y ..........numeric                    
-14 fBodyAccJerk-std()-Z ..........numeric                    
-15 fBodyGyro-mean()-X ............numeric                    
-16 fBodyGyro-mean()-Y ........... numeric                    
-17 fBodyGyro-mean()-Z ........... numeric                    
-18 fBodyGyro-std()-X ............ numeric                    
-19 fBodyGyro-std()-Y  ............numeric                    
-20 fBodyGyro-std()-Z .............numeric                    
-21 fBodyAccMag-mean() ............numeric                    
-22 fBodyAccMag-std() .............numeric                    
-23 fBodyBodyAccJerkMag-mean().....numeric                    
-24 fBodyBodyAccJerkMag-std()......numeric                    
-25 fBodyBodyGyroMag-mean()........numeric                    
-26 fBodyBodyGyroMag-std().........numeric                    
-27 fBodyBodyGyroJerkMag-mean()... numeric                    
-28 fBodyBodyGyroJerkMag-std().....numeric  
+1  subject (factor)     
+2  practice (factor)
+3  fBodyAcc-mean()-X  (numeric)
+4  fBodyAcc-mean()-Y  (numeric)
+5  fBodyAcc-mean()-Z  (numeric)
+6  fBodyAcc-std()-X  (numeric)
+7  fBodyAcc-std()-Y  (numeric)
+8  fBodyAcc-std()-Z  (numeric)
+9  fBodyAccJerk-mean()-X (numeric)
+10 fBodyAccJerk-mean()-Y  (numeric)
+11 fBodyAccJerk-mean()-Z  (numeric)
+12 fBodyAccJerk-std()-X  (numeric)
+13 fBodyAccJerk-std()-Y  (numeric)
+14 fBodyAccJerk-std()-Z  (numeric)
+15 fBodyGyro-mean()-X  (numeric)
+16 fBodyGyro-mean()-Y  (numeric)
+17 fBodyGyro-mean()-Z  (numeric)
+18 fBodyGyro-std()-X  (numeric)
+19 fBodyGyro-std()-Y  (numeric)
+20 fBodyGyro-std()-Z  (numeric)
+21 fBodyAccMag-mean  (numeric)
+22 fBodyAccMag-std()  (numeric)
+23 fBodyBodyAccJerkMag-mean()  (numeric)
+24 fBodyBodyAccJerkMag-std()  (numeric)
+25 fBodyBodyGyroMag-mean()  (numeric)
+26 fBodyBodyGyroMag-std (numeric)
+27 fBodyBodyGyroJerkMag-mean()  (numeric)
+28 fBodyBodyGyroJerkMag-std()  (numeric)
 
 
