@@ -29,6 +29,7 @@ The raw data are a conjunt of 6 files with data and 2 files with labels
 **Explanation:**
 
 features.txt containt the names of 561 measures.
+
 activity_labels.txt is the code for each activity:
 * 1 WALKING
 * 2 WALKING_UPSTAIRS
@@ -37,6 +38,12 @@ activity_labels.txt is the code for each activity:
 * 5 STANDING
 * 6 LAYING
 
+
+## Processed data
+
+The preparation of data have two main steps:
+Merge all data
+Select relevant data
 
 
 
