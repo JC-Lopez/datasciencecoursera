@@ -50,7 +50,8 @@ Once preparation is finished, the new data set have this structure:
 
 No. of observations =  10299 
 
-   Variable                    Class Description
+   Variable                  Class Description
+   
 1  subject                     factor                     
 2  practice                    factor                     
 3  fBodyAcc-mean()-X           numeric                    
